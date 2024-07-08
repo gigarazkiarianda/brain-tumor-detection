@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+tensorflow
+numpy
+pandas
+matplotlib
+jupyter
+=======
+torch==1.9.0
+torchvision==0.10.0
+pillow==8.3.1
+>>>>>>> dffacf38d8af2063a7055c4d228db7929495ff66
