@@ -56,7 +56,8 @@ Python main.py
 
 
 ## Refrensi
-Daftar referensi yang digunakan atau bermanfaat untuk memahami proyek ini:
+
+List of references used or useful for understanding this project:
 
 Official Documentation
 Tutorial or Guide
