@@ -13,7 +13,10 @@
 
 
 ## Introduction
-This project focuses on the detection of brain tumors using the Xception model, a powerful convolutional neural network. By analyzing MRI scans, this tool aims to assist medical professionals in diagnosing brain tumors with higher accuracy and efficiency.
+
+Brain Tumor DetectionBrain Tumor Detection
+Jun 2024 - Jul 2024Jun 2024 - Jul 2024
+As part of my effort to enhance my coding skills and develop AI solutions using Python, this personal project leverages the Xception model, a powerful convolutional neural network, to detect brain tumors from MRI scans. By using an existing dataset of labeled MRI images, this tool aims to assist medical professionals in diagnosing brain tumors with greater accuracy and efficiency. The pre-trained Xception model analyzes the images to identify the presence of tumors, providing a probability score for each scan. This enhances the diagnostic process, potentially leading to faster and more accurate detection, ultimately improving patient outcomes. The integration of advanced machine learning techniques supports healthcare professionals in making informed decisions based on reliable and precise image analysis.
 
 ## Tech Stack
 Framework, Library, Database, Tools, etc
@@ -38,7 +41,7 @@ cd brain-tumor-detection
 code . 
 
 # run the program 
-Python main.py
+Streamlit run main.py
 ```
 
 ## Fitur 
